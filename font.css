@@ -1,0 +1,19 @@
+@font-face
+{
+    font-family: 'Geometria';
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+
+    src: url('./Geometria/Geometria.otf');
+}
+
+@font-face
+{
+    font-family: 'Geometria Bold';
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+
+    src: url('./Geometria/Geometria-Bold.otf');
+}
