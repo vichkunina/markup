@@ -51,6 +51,13 @@ body {
     text-align: left;
     cursor: pointer;
     font-family: 'Geometria Bold', Arial, Helvetica, sans-serif;
+    opacity: .8;
+    -ms-transition: opacity .3s ease-in-out;
+    transition: opacity .3s ease-in-out;
+}
+
+.visit-card__scroll-button:hover {
+  opacity: 1;
 }
 
 .visit-card__content {
